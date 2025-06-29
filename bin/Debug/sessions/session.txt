@@ -1,0 +1,8 @@
+UserId=13
+UserName=admin
+Email=admin@gmail.com
+DateOfBirth=1997-02-01
+Gender=Male
+PhoneNumber=01892395659
+CreatedAt=2025-04-05 21:04:56
+UserPhoto=
